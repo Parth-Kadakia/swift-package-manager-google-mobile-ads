@@ -28,7 +28,7 @@ let package = Package(
   dependencies: [
     .package(
       name: "GoogleUserMessagingPlatform",
-      url: "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git",
+      url: "https://github.com/Parth-Kadakia/swift-package-manager-google-user-messaging-platform.git",
       "1.1.0"..<"4.0.0"
     )
   ],
